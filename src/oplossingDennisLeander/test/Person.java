@@ -1,8 +1,6 @@
-package learning.test;
+package superoplossing;
 
-import java.util.ArrayList;
-
-public class Person {
+public class Person{
 	private String firstName;
 	private String lastName;
 	private String[] items;
@@ -29,6 +27,6 @@ public class Person {
 
 	public void setItems(String[] items) {
 		this.items = items;
-	} 
+	}
 	
 }
